@@ -1,0 +1,12 @@
+form {
+margin: 0 auto;
+width: 300px;
+}
+input {
+  width: 269px;
+  margin-left: 11px;
+  padding: 0;
+  margin-bottom: 46px;
+  border: none;
+  border-bottom: 1px solid grey;
+  }
